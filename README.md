@@ -50,19 +50,17 @@ Here are some ideas to get you started:
 
 <a href="" alt="Happy" ><img width="135px" align="right" src="https://github.com/nirala96/nirala96/blob/master/happy.png"></a>
 
-![Arunoday's github stats](https://github-readme-stats.vercel.app/api?username=nirala96&show_icons=true&theme=radical)
+![Tapan's github stats](https://github-readme-stats.vercel.app/api?username=Stapan17&show_icons=true&theme=radical)
 <br/>
 <br/>
 <img src="bat.gif" width="350" align='right'>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nirala96)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stapan17)
 <br>
 <hr>
 <br>
 <p align="center">
-    <a href="https://arunodaykumar.me" alt="Portfolio"><img width="120px" src="https://www.a2solutions.ae/wp-content/uploads/2015/10/portfolio.png"></a>
-    <a href="ttps://www.linkedin.com/in/ArunodayKumar/ " alt="Linkedin"><img width="35px" src="linkedin.png"></a>
-    <a href="https://drive.google.com/file/d/1bVulZCLqBCx1_bE9Sj_uLMkFhvDpKeT4/view?usp=sharing   " alt="resume"><img width="35px" src="https://cdn2.iconfinder.com/data/icons/business-management-and-teamwork-filled-color/300/163251747Untitled-3-512.png"></a>
-    
+    <a href="https://stapan17.github.io/portfolio/" alt="Portfolio"><img width="120px" src="https://www.a2solutions.ae/wp-content/uploads/2015/10/portfolio.png"></a>
+    <a href="https://www.linkedin.com/in/tapan-savani/" alt="Linkedin"><img width="35px" src="linkedin.png"></a>
 </p>
   
 <br/>
