@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Web Devlopment Projects.
 - 🌱 I’m currently learning Data science.
 - 👯 I’m looking forward to collaborate on Projects
-- 🥅 2020 Goals: Start contributing in Open source projects
+- 🥅 2021 Goals: Start contributing in Open source projects
 - 💬 If you have anything to Ask me about anything...Linkedin is there
 
 
