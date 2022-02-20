@@ -4,17 +4,14 @@
 <p align="center"> <img src=https://komarev.com/ghpvc/?username=manthanghasadiya alt=manthanghasadiya/> </p>
 
 <p align="center">
-<a href="https://www.instagram.com/g_m_j_27_03/" >
-  <img alt="Manthan's Insta" width="22px" src="/img/instagram.png" />
+<a href="https://www.instagram.com/soul_of_god17" >
+  <img alt="Tapan's Insta" width="22px" src="/img/instagram.png" />
 </a>
-<a href="https://twitter.com/g_m_j_2703">
-  <img alt="Manthan Ghasadiya | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+<a href="https://twitter.com/TapanSavani">
+  <img alt="Tapan Savani | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/manthan-ghasadiya-6322bb1a0/">
+<a href="https://www.linkedin.com/in/tapan-savani">
   <img alt="Manthan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://youtube.com/hackynerdz">
-  <img alt="Manthan's YT channel" width="22px" src="/img/YT.png" />
 </a>
 </p>
 
