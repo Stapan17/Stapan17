@@ -7,27 +7,20 @@
 
 <h3>Services & Frameworks I Know & Use</h3>
 
-<img alt="Django" src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/>
-<img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"/>
-<img alt="Numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-<img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-<img alt="Heroku" src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
+<img alt="Django" src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/><img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/><img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"/><img alt="Numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"/><img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/><img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/><img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/><img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/><img alt="Heroku" src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
 
+<h3>OS used</h3>
 
-<h3>Things I Want To Learn & Things I Am Learning</h3>
+<img alt="Linux/Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 
+<!-- <h3>Things I Want To Learn & Things I Am Learning</h3>
 
 <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 <img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white"/>
 <img alt="Lua" src="https://img.shields.io/badge/lua-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white"/>
 <img alt="Perl" src="https://img.shields.io/badge/perl-%2339457E.svg?&style=for-the-badge&logo=perl&logoColor=white"/>
 <img alt="Figma" src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
-
-
+ -->
 <h2> Github Stats </h2>
 <div>
   <p align="center">
@@ -39,15 +32,16 @@
 <br />
 <div align="center">
   <p align="center">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=JDuggal760&count_private=true&include_all_commits=true&show_icons=true&theme=radical" />
-
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Stapan17&count_private=true&include_all_commits=true&show_icons=true&theme=radical" />
   </p>
   <p align="center">
 
 <h3 align="left">Hackathons + CTF's<h3>
   <p>
     
-    5x Tech4kidz Hackathons
+    5x Tech4kidz Hackathons [abc](https://google.com)
+    [An Internal Link to a Section Heading](/guides/content/editing-an-existing-page#modifying-front-matter)
+
     CU hacking
     UofThacks
     HVtechFest
@@ -57,21 +51,11 @@
     
 </p>
 
+  [An Internal Link to a Section Heading](/guides/content/editing-an-existing-page#modifying-front-matter)
 
-<p align="left">Peronsal Websites(under development)<p>
-<ul>
   
-    cryptofire.space
-    reviewdat.tech
-    pcpanel.tech
-  
-</ul>
-
 <h1> Get in Touch! </h1>
-<a href="https://discord.gg/2K6yUMDQ" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/%3CServer%3E%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
- <a href="https://www.twitch.tv/jadogasdasdsadsad" target="_blank"><img alt="Twitch" src="https://img.shields.io/badge/<handle>%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/></a>
-<a href="mailto:reddyduggal@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.reddit.com/user/Optimal_Astronomer85" target="_blank"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a> 
- <a href="https://www.linkedin.com/in/jared-duggal-a902191b9/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</a> <a href="https://reviewtech.medium.com/" target="_blank">	<img alt="Medium" src="https://img.shields.io/badge/Medium%20-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white"/></a>
-
+  <a href="https://stapan17.github.io/portfolio/" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  <a href="https://twitter.com/TapanSavani/" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="mailto:savanitapan2001@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+ <a href="https://www.linkedin.com/in/tapan-savani/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
