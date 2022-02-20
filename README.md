@@ -5,7 +5,7 @@
 
 <p align="center">
 <a href="https://www.instagram.com/soul_of_god17" >
-  <img alt="Tapan's Insta" width="22px" src="/img/instagram.png" />
+  <img alt="Tapan's Insta" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagram.svg" />
 </a>
 <a href="https://twitter.com/TapanSavani">
   <img alt="Tapan Savani | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
