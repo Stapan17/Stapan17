@@ -38,20 +38,21 @@
 
 <h3 align="left">Hackathons + CTF's<h3>
   <p>
+   
+   Hackathon <a href='https://google.com'>Live</a> <a href='https://google.com'>Video</a>
+   
+   
+Hackathon <a href='https://google.com'>Live</a> <a href='https://google.com'>Video</a>
+   
+   
+   Hackathon <a href='https://google.com'>Live</a> <a href='https://google.com'>Video</a>
+   
+   
+   
+   Hackathon <a href='https://google.com'>Live</a> <a href='https://google.com'>Video</a>
     
-    5x Tech4kidz Hackathons [abc](https://google.com)
-    [An Internal Link to a Section Heading](/guides/content/editing-an-existing-page#modifying-front-matter)
-
-    CU hacking
-    UofThacks
-    HVtechFest
-    Snakes and Hackers
-    HackUpstate
-    2 CTF's inclucing samsung CTF and others on CTFtime
     
-</p>
-
-  [An Internal Link to a Section Heading](/guides/content/editing-an-existing-page#modifying-front-matter)
+ </p>
 
   
 <h1> Get in Touch! </h1>
