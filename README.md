@@ -2,7 +2,7 @@
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 <p align="center"> <img src=https://komarev.com/ghpvc/?username=Stapan17 alt=Stapan17/> </p>
-
+![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=nirala96.nirala96)<img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 <p align="center">
 <a href="https://www.instagram.com/soul_of_god17" >
   <img alt="Tapan's Insta" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagram.svg" />
