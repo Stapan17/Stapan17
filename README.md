@@ -39,7 +39,7 @@
 <h3 align="left">Hackathons + CTF's<h3>
   <p>
    
-   Hackathon <a href='https://google.com'>Live</a> <a href='https://google.com'>Video</a>
+   Hackathon <a href='https://google.com'>Website</a> <a href='https://google.com'>Video</a>
    
    
 Hackathon <a href='https://google.com'>Live</a> <a href='https://google.com'>Video</a>
