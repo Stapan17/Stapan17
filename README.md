@@ -1,5 +1,5 @@
 
-<h1>Tapan Savani</h1>
+<center><h1>Tapan Savani</h1></center>
 <h3>Languages I Know & Use</h3>
 
 
